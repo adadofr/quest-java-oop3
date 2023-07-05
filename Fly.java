@@ -7,5 +7,5 @@ public interface Fly {
 
   void descend(int meters);
 
-  void land();
+  void land(int meters);
 }
